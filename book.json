@@ -1,7 +1,4 @@
 {
     "plugins": [
-        "disqus",
-        "youtube",
-        "katex"
     ]
 }
