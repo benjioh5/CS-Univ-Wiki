@@ -112,6 +112,6 @@
 - [김치콘](https://kimchicon.org/)
 - [Inc0gnito](http://inc0gnito.com/)
   대학생 주도 컨퍼런스입니다. ICEWALL 회원이라면 한 번 씩은 가보게 되죠 :P
-- [netsec](http://www.netsec-kr.or.kr/)
+- [netsec-kr](http://www.netsec-kr.or.kr/)
   한국인터넷진흥원이 주최하고 한국정보보호학회가 주관하는 정보통신망 정보보호 컨퍼런스
 
