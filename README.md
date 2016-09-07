@@ -19,3 +19,13 @@
 # Special Thanks to...
 
 이 글에 조언을 해주신 모든 분들께...
+
+# 기여하기
+
+1. https://github.com/benjioh5/icewall-guideline 를 포크한다
+2. 포크한 레포지토리에서 작업을 한다
+   1. 내용 수정
+   2. 커밋
+   3. 수정하고 싶은 내용을 다 수정하였을 경우 푸시를 한다. 
+3. 포크한 레포지토리에서 https://github.com/benjioh5/icewall-guideline 로 풀리퀘스트를 한다.
+4. 관리자가 확인하고 제대로 수정이 되었으면 반영한다.
