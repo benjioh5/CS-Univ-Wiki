@@ -101,7 +101,7 @@
   한국 게임 개발자 컨퍼런스
 - [NDC](https://ndc.nexon.com/)
   넥슨 게임 개발자 컨퍼런스, 과거 슬라이드/영상 뒤져보면 정말 좋은 강의들을 찾을 수 있을 겁니다.
-- [pycon](https://www.pycon.kr/)
+- [PYCON](https://www.pycon.kr/)
   세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스
 
 ## 정보 보안
@@ -112,4 +112,6 @@
 - [김치콘](https://kimchicon.org/)
 - [Inc0gnito](http://inc0gnito.com/)
   대학생 주도 컨퍼런스입니다. ICEWALL 회원이라면 한 번 씩은 가보게 되죠 :P
+- [netsec](http://www.netsec-kr.or.kr/)
+  한국인터넷진흥원이 주최하고 한국정보보호학회가 주관하는 정보통신망 정보보호 컨퍼런스
 
