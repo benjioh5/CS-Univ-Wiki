@@ -360,9 +360,10 @@
 
 
 # Java_2
-> 이 주석 아래로는 의식의 흐름 기법으로 정리한 것임. 
-## 자바는 전역 변수가 없다. ( NO global variables instead, static variables!)
+> 이 주석 아래로는 의식의 흐름 기법으로 정리한 것임.
 
+
+## 자바는 전역 변수가 없다. ( NO global variables instead, static variables!)
 
 ## 자바 자료형
     참조 자료형: class, interface, 배열
