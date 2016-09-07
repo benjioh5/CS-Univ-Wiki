@@ -1,4 +1,7 @@
 # JAVA
+> 이 글은 자문을 통해 작성되었습니다.
+> 자문자 : [오시환](https://github.com/SHOM95)
+
 
 #### MADE_BY: Sun Microsystems team led by James Gosling
 #### WHEN: 1991
