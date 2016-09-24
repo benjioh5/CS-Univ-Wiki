@@ -6,6 +6,7 @@
 
 - Attack-Defense
 - Jeopardy
+- Hack-quest
 
 ### CTF 문제 종류
 
