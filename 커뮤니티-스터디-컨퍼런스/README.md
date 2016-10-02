@@ -93,25 +93,47 @@
 
 - [Tech Planet](http://techplanet.skplanet.com/)
   SK 플래닛 개발자 컨퍼런스
+
 - [SOSCON](http://www.soscon.net/)
   삼성 오픈소스 컨퍼런스
+
 - [DEVIEW](http://deview.kr/)
   네이버 개발자 컨퍼런스
+
 - [KGC](http://www.kgconf.com/)
   한국 게임 개발자 컨퍼런스
+
 - [NDC](https://ndc.nexon.com/)
   넥슨 게임 개발자 컨퍼런스, 과거 슬라이드/영상 뒤져보면 정말 좋은 강의들을 찾을 수 있을 겁니다.
+
 - [PYCON](https://www.pycon.kr/)
   세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스
+
+- [IGC](http://igc.inven.co.kr/)
+
+  국내 게임 미디어 인벤이 대한민국 현업 게임 게발자를 초빙하여 지식과 노하우를 공유하는 컨퍼런스
+
+  ​
+
+  ​
 
 ## 정보 보안
 
 - [코드엔진](http://www.codeengn.com/)
+
 - [코드게이트](http://www.codegate.org/)
+
 - [시큐인사이드](http://secuinside.com/)
+
 - [김치콘](https://kimchicon.org/)
+
 - [Inc0gnito](http://inc0gnito.com/)
   대학생 주도 컨퍼런스입니다. ICEWALL 회원이라면 한 번 씩은 가보게 되죠 :P
+
 - [netsec-kr](http://www.netsec-kr.or.kr/)
   한국인터넷진흥원이 주최하고 한국정보보호학회가 주관하는 정보통신망 정보보호 컨퍼런스
+
+- [POC](http://www.powerofcommunity.net/index.htm)
+
+  한국 해커 및 보안 전문가를 위해 조직된 국제 보안 및 해킹 컨퍼런스 물론 한국에서 열리고 PWNFEST, KIDs CTF, Powerofxx 도 열리죠 : )
 
