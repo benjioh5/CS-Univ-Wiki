@@ -133,6 +133,5 @@
   한국인터넷진흥원이 주최하고 한국정보보호학회가 주관하는 정보통신망 정보보호 컨퍼런스
 
 - [POC](http://www.powerofcommunity.net/index.htm)
-
   한국 해커 및 보안 전문가를 위해 조직된 국제 보안 및 해킹 컨퍼런스 물론 한국에서 열리고 PWNFEST, KIDs CTF, Power of xx 도 열리죠 : )
 
