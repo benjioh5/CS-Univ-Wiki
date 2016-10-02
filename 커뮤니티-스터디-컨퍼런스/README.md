@@ -109,8 +109,7 @@
 - [PYCON](https://www.pycon.kr/)
   세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스
 
-- [IGC](http://igc.inven.co.kr/)
-
+- [IGC](http://igc.inven.co.kr/) 
   국내 게임 미디어 인벤이 대한민국 현업 게임 게발자를 초빙하여 지식과 노하우를 공유하는 컨퍼런스
 
   ​
