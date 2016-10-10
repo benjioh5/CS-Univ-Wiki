@@ -21,3 +21,9 @@ RSS는 RSS입니다. 아니 뭐라고요? RSS는 간단하게 말하면, 뉴스 
 ## 그 외는?
 
 [Earth Reader](https://github.com/earthreader) 나 [Readkit](http://www.readkitapp.com/)이나 [Great News Reader](http://www.curiostudio.com/) 등등 여러가지 설치형 서비스가 있습니다. 근데 Feedly가 워낙 막강한 상태이고, 대부분 입문용으로는 약간 불편한 부분들이 존재해서 별로 추천을 안 합니다. 뭐 Readkit은 추천을 하고 싶어도 맥 전용이라… 하지를 못합니다 ㅠㅠ
+
+
+
+## 뭘 구독해야하는데?
+
+이에 대한 내용은 __[정보 획득/RSS](/정보획득/RSS.md)__에 잘 설명되어 있습니다. 이 부분을 참고하시길 바랍니다.
