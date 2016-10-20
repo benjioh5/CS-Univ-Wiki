@@ -1,4 +1,3 @@
 {
-    "plugins": [
-    ]
+    "plugins": ["theme-official", "katex", "youtube", "mermaid", "tonic", "prism", "-highlight"]
 }
