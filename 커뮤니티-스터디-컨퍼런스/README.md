@@ -112,6 +112,12 @@
 - [IGC](http://igc.inven.co.kr/) 
   국내 게임 미디어 인벤이 대한민국 현업 게임 게발자를 초빙하여 지식과 노하우를 공유하는 컨퍼런스
 
+- [Google I/O Extended Seoul](https://festi.kr/festi/2016-io-extended-seoul-after/)
+  구글에서 연례로 열리는 개발자 행사인 Google I/O 개최 이후 발표내용을 각 나라의 전문가들이 확장해주는 컨퍼런스
+  
+- [GDG DevFest Seoul](https://festi.kr/festi/gdg-korea-2016-devfest-seoul/)
+  GDG(Google Developer Group)에서 열리는 개발자 컨퍼런스, 그 해의 유행한 구글 기술들에 대해 들을 수 있습니다. 인천, 부산 등에서도 따로 열립니다.
+  
   ​
 
 
