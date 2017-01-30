@@ -60,6 +60,14 @@
 
 ### atom
 
+#### 사용언어 아톰 플러그인 추천 
+
+##### Julia
+[uber-juno](https://github.com/JunoLab/uber-juno) : 우버에서 만든 IDE atom plugin for julia.
+
+##### Python
+[hydrogen](https://github.com/nteract/hydrogen) : code를 소스코드 안에서 줄/블럭단위로 실행하는것! 버전 관리 안더러워지는 Ipython notebook 생각하시면 될덧.
+
 ### mccvim
 
 ### sshfs
