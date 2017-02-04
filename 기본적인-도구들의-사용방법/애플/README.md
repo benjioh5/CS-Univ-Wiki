@@ -113,7 +113,7 @@ fish보다 기본적인 기능은 약하지만 POSIX기반이라 쉘 스크립�
 
 ### [fish](https://fishshell.com/)
 
-요새 핫한 쉘 fish 입니다. 설정, 스킨, 자동완성, 쉘 신텍스 하이라이팅 등 웬만한 기능이 이미 기본으로 설정되어있기 때문에 추가적으로 커스터마이징을 하지 않더라도 사용성이 매우 좋습니다. 하지만 POSIX 표준이 아니기 때문에 기존 POSIX 쉘(bash, zsh 등)에서 사용하던 스크립트들과 호환이 되지 않습니다.
+요새 핫한 쉘 fish 입니다. 설정, 스킨, 자동완성, 쉘 신텍스 하이라이팅 등 웬만한 기능이 이미 기본으로 설정되어있기 때문에 추가적으로 커스터마이징을 하지 않더라도 사용성이 매우 좋습니다. 하지만 POSIX 표준이 아니기 때문에 기존 POSIX 쉘(bash, zsh 등)에서 사용하던 스크립트들과 호환이 되지 않습니다. [fish-shell-cookbook](https://github.com/jbucaran/fish-shell-cookbook) 에서 기본적인 튜토리얼을 다루고 있습니다.
 
 zsh처럼 [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)를 통해서 기능을 확장하거나 테마를 변경할 수 있습니다.
 
