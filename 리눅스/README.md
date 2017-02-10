@@ -11,7 +11,7 @@
 
 리눅스는 GPLv2 (GNU General Public License 의 버전2) 라는 라이선스를 아래에서 개발되고, 배포 되어진다. 따라서, 소스코드가 공개되며, 개발자가 필요에 맞게 소스코드를 수정 하는 것이 가능하다. 
 
-## 데스크탑 환경
+## GUI 환경
 
 보통 리눅스 하면 떠오르는게 콘솔이나 터미널에서 명령어를 이용해서 작동하는 것을 상상 하게 되는데, 리눅스 또한 GUI 환경을 구성하여 일반 데스크탑 용도로 충분히 이용 할 수 있다.
 
@@ -29,12 +29,14 @@
 - [Fluxbox](http://www.fluxbox.org/)
 - [Compiz](https://launchpad.net/compiz)
 - [Blackbox](http://blackboxwm.sourceforge.net/)
+
 ...
 
 타일형
 
 - [Bspwm](https://github.com/baskerville/bspwm)
 - [i3](http://i3wm.org/)
+
 ...
 
 ### 데스크탑 환경의 종류
@@ -42,6 +44,7 @@
 - [GNOME](https://www.gnome.org/gnome-3/)
 - [KDE Plasma](https://www.kde.org/workspaces/plasmadesktop/)
 - [Xfce](http://www.xfce.org/)
+
 ...
 
 ## 윈도우와 다른점
