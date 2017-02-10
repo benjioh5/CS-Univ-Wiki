@@ -11,6 +11,19 @@
 
 리눅스는 GPLv2 (GNU General Public License 의 버전2) 라는 라이선스를 아래에서 개발되고, 배포 되어진다. 따라서, 소스코드가 공개되며, 개발자가 필요에 맞게 소스코드를 수정 하는 것이 가능하다. 
 
+### 여담
+
+리눅스가 사용하는 GPL 라이선스는 __자유 소프트웨어__ 의 대표적인 라이선스 사용권 중의 하나이다. 
+__자유 소프트웨어__ 란 말 그대로 프로그램을 이용하거나 수정, 배포, 복사등을 자유롭게 이용할 수 있는 소프트웨어를 나타낸다. 이러한 __자유 소프트웨어__ 또한 각각 용도에 맞는 라이선스들이 존재하는데, 경우에 따라 수정, 배포, 복사 등을 하는데에 추가적으로 요구 하거나 제한되는 사항이 있다.
+아래가 __자유 소프트웨어__ 라이선스의 대표적인 것들이다.
+
+- [GNU 일반 공중 사용 허가서 (GNU General Public License )](https://ko.wikipedia.org/wiki/GNU_%EC%9D%BC%EB%B0%98_%EA%B3%B5%EC%A4%91_%EC%82%AC%EC%9A%A9_%ED%97%88%EA%B0%80%EC%84%9C)
+- [GNU 약소 일반 공중 사용 허가서 (GNU Lesser General Public License)](https://ko.wikipedia.org/wiki/GNU_%EC%95%BD%EC%86%8C_%EC%9D%BC%EB%B0%98_%EA%B3%B5%EC%A4%91_%EC%82%AC%EC%9A%A9_%ED%97%88%EA%B0%80%EC%84%9C) (옛 이름에서는 Lesser 가 아닌 Library 였다.)
+- [BSD 허가서 (BSD License)](https://ko.wikipedia.org/wiki/BSD_%ED%97%88%EA%B0%80%EC%84%9C)
+- [아파치 허가서 (Apache License)](https://ko.wikipedia.org/wiki/%EC%95%84%ED%8C%8C%EC%B9%98_%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4)
+- [MIT 허가서 (MIT License)](https://ko.wikipedia.org/wiki/MIT_%ED%97%88%EA%B0%80%EC%84%9C)
+- 더 많은 것들은 [여기](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) 서 볼 수 있다.
+
 ## GUI 환경
 
 보통 리눅스 하면 떠오르는게 콘솔이나 터미널에서 명령어를 이용해서 작동하는 것을 상상 하게 되는데, 리눅스 또한 GUI 환경을 구성하여 일반 데스크탑 용도로 충분히 이용 할 수 있다.
@@ -75,7 +88,7 @@
 
 ### [아치리눅스 (Archlinux)](https://www.archlinux.org/)
 
-리눅스 커널을 기반으로 한 롤링 릴리즈 (Rolling release) 방식의 리눅스 배포판이다. 현재 지원하는 아키텍쳐는 i686 과 x86_64 를 지원 하고 있지만 i686 의 경우 곧 지원이 [중단](https://www.archlinux.org/news/phasing-out-i686-support/) 될 예정이다. 
+롤링 릴리즈 (Rolling release) 방식의 리눅스 배포판이다. 현재 지원하는 아키텍쳐는 i686 과 x86_64 를 지원 하고 있지만 i686 의 경우 곧 지원이 [중단](https://www.archlinux.org/news/phasing-out-i686-support/) 될 예정이다. 
 
 아치 리눅스의 슬로건이 Keep It Simple 인 만큼, 설치 부터 세팅까지 손수 CLI 환경에서 사용자가 설정해야 한다는 것이 특징이다. 이점은 매우 귀찮은 부분이 될 수 도 있지만, 커스터마이징을 좋아하는 유저들이나, 리눅스를 전반적으로 익혀볼 유저들에게는 좋은 이점으로 작용 될 수 있다.
 
