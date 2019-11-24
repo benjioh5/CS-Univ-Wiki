@@ -1,0 +1,50 @@
+# 컨퍼런스/세미나
+
+컨퍼런스와 세미나가 비주기적으로 열리는 것들도 많으며, 종류도 다양해서 메이저하고 주기적으로 열리는 것들만 적습니다. 국내 컨퍼런스 관련 소식을 계속 받아보고 싶으시다면, [티몬 개발 블로그](http://tmondev.blog.me/)의 [IT 세미나 정보](http://blog.naver.com/PostList.nhn?blogId=tmondev&from=postList&categoryNo=18)를 보는게 좋습니다. 개발, 정보보안 모두 참여를 해 볼 것을 추천하는 곳들만 적어놨습니다.
+
+일반적으로 컨퍼런스와 세미나는 강연 슬라이드 및 영상을 올려놓는 경우가 많으니, 각 사이트에 들어가서 자료들을 뒤져보는 걸 추천합니다. 의외로 꿀팁들도 많고, 배울 것도 많고 그렇습니다.
+
+## 개발
+
+- [Tech Planet](http://techplanet.skplanet.com/)
+  SK 플래닛 개발자 컨퍼런스
+
+- [SOSCON](http://www.soscon.net/)
+  삼성 오픈소스 컨퍼런스
+
+- [DEVIEW](http://deview.kr/)
+  네이버 개발자 컨퍼런스
+
+- [KGC](http://www.kgconf.com/)
+  한국 게임 개발자 컨퍼런스
+
+- [NDC](https://ndc.nexon.com/)
+  넥슨 게임 개발자 컨퍼런스, 과거 슬라이드/영상 뒤져보면 정말 좋은 강의들을 찾을 수 있을 겁니다.
+
+- [PYCON](https://www.pycon.kr/)
+  세계 각국의 파이썬 프로그래밍 언어 커뮤니티에서 주관하는 비영리 컨퍼런스
+
+- [IGC](http://igc.inven.co.kr/) 
+  국내 게임 미디어 인벤이 대한민국 현업 게임 게발자를 초빙하여 지식과 노하우를 공유하는 컨퍼런스
+
+- [Google I/O Extended Seoul](https://festi.kr/festi/2016-io-extended-seoul-after/)
+  구글에서 연례로 열리는 개발자 행사인 Google I/O 개최 이후 발표내용을 각 나라의 전문가들이 확장해주는 컨퍼런스
+
+- [GDG DevFest Seoul](https://festi.kr/festi/gdg-korea-2016-devfest-seoul/)
+  GDG(Google Developer Group)에서 열리는 개발자 컨퍼런스, 그 해의 유행한 구글 기술들에 대해 들을 수 있습니다. 인천, 부산 등에서도 따로 열립니다.
+- [spring camp](http://www.springcamp.io/)
+  애플리케이션 서버 개발자들과 함께 가치있는 기술에 관한 정보와 경험을 "공유"하고, 참가한 사람들과 함께 '인연'을 만들고, 시글벅저하게 즐길 수 있는 개발자들을 위한 '축제'를 목표로 하는 비영리 컨퍼런스.
+  
+## 정보 보안
+
+- [코드엔진](http://www.codeengn.com/)
+- [코드게이트](http://www.codegate.org/)
+- [시큐인사이드](http://secuinside.com/)
+- [김치콘](https://kimchicon.org/)
+- [Inc0gnito](http://inc0gnito.com/)
+  대학생 주도 컨퍼런스입니다. ICEWALL 회원이라면 한 번 씩은 가보게 되죠 :P
+- [netsec-kr](http://www.netsec-kr.or.kr/)
+  한국인터넷진흥원이 주최하고 한국정보보호학회가 주관하는 정보통신망 정보보호 컨퍼런스
+- [POC](http://www.powerofcommunity.net/index.htm)
+  한국 해커 및 보안 전문가를 위해 조직된 국제 보안 및 해킹 컨퍼런스 물론 한국에서 열리고 PWNFEST, KIDs CTF, Power of xx 도 열리죠 : )
+

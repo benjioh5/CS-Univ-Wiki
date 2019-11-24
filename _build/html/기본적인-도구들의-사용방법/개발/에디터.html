@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="markdown">
+  <head>
+    <meta charset="utf-8" />
+    <title>에디터 &#8212; CS Univ Wiki 1.0.0 documentation</title>
+    <link rel="stylesheet" href="../../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+    <script type="text/javascript" src="../../_static/jquery.js"></script>
+    <script type="text/javascript" src="../../_static/underscore.js"></script>
+    <script type="text/javascript" src="../../_static/doctools.js"></script>
+    <script type="text/javascript" src="../../_static/language_data.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+   
+  <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <div class="section" id="id1">
+<h1>에디터<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="vi-m">
+<h2>Vi(m)<a class="headerlink" href="#vi-m" title="Permalink to this headline">¶</a></h2>
+<p>에디터계의 헬게이트이자 잘만 쓰면 다른 에디터는 쓰지도 않게되는 그런 녀석입니다. 진입 장벽부터 장난아니게 높을 뿐만아니라, 각종 플러그인 설정, .vimrc 설정 같은 여러 부분들에 대해서 빠삭하게 잘 알아야하고, 전 키보드 기판을 단축키로 사용을 할 뿐만 아니라, 매크로라는 기능까지 있어서 일부 기능을 능숙하게 쓰려면 최소 2~3년 정도, 전 기능을 능숙하게 쓴다는 건 꿈도 못 꾼다고 보시면 됩니다.</p>
+<p>빔 기본적인 사용법은 <a class="reference external" href="http://www.openvim.com/">오픈빔</a> 에서 배우실 수 있습니다. 따라 하시면 됩니다. 오픈빔으로 빔이 익숙해 지시면, 나중에는 <a class="reference external" href="http://www.worldtimzone.com/res/vi.html">빔 치트시트</a>만 간간히 보셔도 크게 지장이 없어요!</p>
+<p><code class="docutils literal notranslate"><span class="pre">.vimrc</span></code>로 빔을 자기한테 맞게 설정할 수 있어요. 줄 번호라던가, 탭 칸수, 문법 체크 등등. 처음에는 .vimrc에 기능 하나하나 추가해 가시는 것도 좋아요. 빔을 좀 더 이쁘게 꾸미고 싶고, 빌드하고 싶고, 자동완성 하고 싶고, git이랑 통합하고 싶고... 이런 욕망들이 생기실 꺼에요!</p>
+<p>욕망이 충만한 바로 그 때 <a class="reference external" href="https://github.com/VundleVim/Vundle.vim">Vundle(패키지 매니저)</a>과 같은 패키지 매니저를 받으시고 <a class="reference external" href="http://vimawesome.com/">Vim Awesome</a>에서 각종 플러그인을 다운받으실 수 있습니다. YEAH! Vim Awesome에서 인기 많은거 안에서만 추려도 선택지가 꽤 많기 때문에 추천 플러그인 목록이 의미가 있나 싶습니다. 하지만 제 맘대로 플러그인 추천해볼께요!</p>
+<div class="section" id="id2">
+<h3>추천 플러그인 목록<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>https://github.com/vim-airline/vim-airline</p></li>
+<li><p>https://github.com/scrooloose/syntastic</p></li>
+<li><p>https://github.com/flazz/vim-colorschemes</p></li>
+<li><p>https://github.com/FredKSchott/CoVim : 구글닥스처럼 파일을 빔에서 동시에 수정할 수 있도록 하는 플러그인입니다.</p></li>
+</ul>
+<p>(NeoVim 소개)</p>
+<p>(Vim과 연계할 수 있는 것들 소개 e.g. ctags, gtags)</p>
+<p>(작성 중)</p>
+</div>
+</div>
+<div class="section" id="emacs">
+<h2>Emacs<a class="headerlink" href="#emacs" title="Permalink to this headline">¶</a></h2>
+<p>터미널에서 코딩하면서 Vim을 안 쓴다고 하면 Emacs를 쓰고 있는 거라고 보시면 됩니다. 저는 Emacs 유저가 아니라서 자세한 설명은 링크로 갈음하겠습니다.</p>
+</div>
+<div class="section" id="nano">
+<h2>nano<a class="headerlink" href="#nano" title="Permalink to this headline">¶</a></h2>
+<p>일반적으로 -nix-like 환경에서 vi나 emacs에 전혀 익숙해지지 못하겠다고 생각이 들면, 쓸 수 있는 에디터는 nano입니다. 수준은 메모장 수준이고, Ctrl과 키 조합으로 명령을 내릴 수 있습니다. 일단 켜보시면 제가 뭔 말을 하는지 알 수 있으실겁니다.</p>
+<div class="highlight-shell notranslate"><div class="highlight"><pre><span></span>$ nano
+</pre></div>
+</div>
+<p>다행히도 신택스 하이라이팅 기능이 존재합니다! <a class="reference external" href="http://askubuntu.com/questions/90013/how-do-i-enable-syntax-highlighting-in-nano">(링크)</a></p>
+</div>
+<div class="section" id="atom">
+<h2>Atom<a class="headerlink" href="#atom" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="vs-code">
+<h2>VS Code<a class="headerlink" href="#vs-code" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="sublime">
+<h2>Sublime<a class="headerlink" href="#sublime" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><p>코드 에디터(code editor)로 프로그래밍 언어를 작성 할 때 사용하는 프로그램으로 빠르고 가볍고 확장성이 좋은 에디터다. -<a class="reference external" href="https://opentutorials.org/course/671/3595">생활코딩, &quot;Sublime Text 소개&quot;</a></p>
+</div></blockquote>
+<p>여러가지 단축키를 지원하며, 문법 하이라이팅, 원하는 방식으로 (예: hjkl로 방향키 사용) 사용자 설정, 패키지를 이용한 확장성이 강력한 에디터입니다.</p>
+<p>버전은 크게 <a class="reference external" href="http://www.sublimetext.com/2">안정적인 2</a>와 <a class="reference external" href="http://www.sublimetext.com/3">베타중인 3</a>가 있습니다.</p>
+<p>설치 후 <a class="reference external" href="https://packagecontrol.io/installation">패키지 매니저 (Package Manager)</a> 플러그인을 설치하여 여러가지 패키지를 내려받아 관리할 수 있습니다.</p>
+<p>(추천 패키지 목록: 작성 중)</p>
+</div>
+<div class="section" id="editplus">
+<h2>EditPlus<a class="headerlink" href="#editplus" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="visual-studio">
+<h2>Visual Studio<a class="headerlink" href="#visual-studio" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="eclipse">
+<h2>Eclipse<a class="headerlink" href="#eclipse" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="android-studio">
+<h2>Android Studio<a class="headerlink" href="#android-studio" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="pycharm">
+<h2>pyCharm<a class="headerlink" href="#pycharm" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clion">
+<h2>CLion<a class="headerlink" href="#clion" title="Permalink to this headline">¶</a></h2>
+<p>pyCharm, InteliJ 의 제작사이기도 한 JetBrain이 만든 C/C++ 용 IDE 입니다. Visual Studio를 사용할 수 없는 Windows 이외의 환경이라면 가장 추천하는 IDE 입니다. 특히, 리눅스에서 사용할 수 있는 <strong>IDE</strong> 중에서는 eclipsCDT나 KDvelope 이외에 큰 대안이 없었는데 CLion이 나온 이후에는 사실상 CLion 이 최선의 선택입니다. 대학생이라면 교육용 라이센스로 무료로 사용할 수 있습니다. <a class="reference external" href="https://www.jetbrains.com/student/">JetBrain Student Page</a></p>
+</div>
+</div>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="../../index.html">CS Univ Wiki</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../../index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2019, benjioh5.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.2.1</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="../../_sources/기본적인-도구들의-사용방법/개발/에디터.md.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="markdown">
+  <head>
+    <meta charset="utf-8" />
+    <title>정보-보안 &#8212; CS Univ Wiki 1.0.0 documentation</title>
+    <link rel="stylesheet" href="../_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <script type="text/javascript" id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <script type="text/javascript" src="../_static/language_data.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+   
+  <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <div class="section" id="id1">
+<h1>정보-보안<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h1>
+<p>사실 이 글은 정보 보안 동아리의 지식 계승 문제 때문에 작성되었습니다. 드디어, 정보 보안이라는 분야를 말 할 수 있게 되니 정말 기쁩니다 :)</p>
+<p>저는 해킹에 입문하기 전에 <a class="reference external" href="http://www.hanbit.co.kr/store/books/look.php?p_code=B7751700612">해커스 : 세상을 바꾼 천채들</a>이란 책을 봤으면 하는데, 1세대 해커부터 현 세대 해커까지의 이야기를 아주 재미있게 풀어낸 책이자 해커 문화라고 하는 것들에 익숙해지기 위한 초석이라고 생각하기 때문입니다. 사실 해커라는 단어는 컴퓨터를 아주 잘 이해하는 사람 정도를 지칭하는 단어였지만, 어느 순간부터 부정적인 이미지나 해킹이라는 활동과 접목된 무언가하는 사람을 지칭하게 되었습니다. 1세대부터 4세대 해커를 해커라는 단어보다는 구루라는 단어로 지칭해야된다는 생각이 들기도 할 정도로 뜻이 바뀌어버리고 말았죠.</p>
+<p>하지만, 해커 문화라는 것은 별로 변하지 않은 거 같습니다. 반정부주의적이거나 무정부주의적이고, 탈권의적이고, 공격적이고, 그리고 어떤 것을 불타는 집념으로 분석해 나가는 그런 느낌은 계속된다는 느낌입니다.</p>
+<p>정보 보안은 거대한 잡탕 스튜라고 봐야할 거 같습니다. 정보를 지키는 거의 모든 행위를 포괄적으로 다루고 있다고 봐야하며, 세부 분야마다 알아야할 선행 지식도 정말로 각양각색이고, 유행을 타는 것들이 많고, 또한 프로그래밍 언어도 잘 쓰는 게 몇 개 있어야하고, 쉘 스크립팅 같은 녀석들이나 커널 구조 같은 것도 어느정도 알아야만 합니다.</p>
+<p>결국, 대부분의 많은 사람들이 첫걸음을 떼기도 전에 쉽게 포기하는 경우가 많습니다. 진입 장벽은 상당히 높고, 공부를 해도 가시적인 결과가 쉽게 나오지 않고, 그리고 한 가지 분야를 공략하는데에도 꽤 많은 시간이 걸리는 편이죠. 거기에다, 정보 보안은 단순히 컴퓨터만 상대하는 것이 아닙니다. 결국 컴퓨터를 쓰는 건 사람이니 사람에 관계된 것들을 신경 써야되고, 이런 것들은 단순히 면대면 관계뿐만 아니라, 정부나 법이나 기업이나 윤리 같은 것과도 씨름을 해야한다는 것을 의미합니다.</p>
+<p>이런 면에서 저는 정보 보안, 그러니까 해킹을 하는 사람들이 예전의 해커의 그 모습을 닮았으면 합니다. 또한, 정보 보안을 공부하는 많은 사람들이 프로그래밍 언어나 학술적인 부분, 하드웨어나 커널과 같은 부분에 대해서 많이 괄시하는 경향을 보이는데, 그러지 않았으면 하는 바램도 있습니다. 더 돌아가는 듯한 느낌이지만, 기본적으로 개발 능력과 스킬은 갖추어야만 합니다. 또한, 정말로 다양한 지식을 알아야만 합니다. 단순히, 하나만 잘해서는 버틸 수 없다고 생각합니다.</p>
+<p>저는 프로그래밍, 아니 코딩을 주로 했었고, 리버싱이나 포너블을 곁가지로 배운 타입이었습니다. 이런 상황에서 저는 이런 저런 프로젝트들을 접해본적이 많았고, -nix 기반에 친숙해질 기회도 상당히 많이 얻었으며, 소위 말하는 삽질이라는 것을 정말 많이 해볼 기회를 얻었습니다. 또한, 다양한 언어를 공부하면서, 각 언어가 갖고 있는 특징을 비교하며 배우면서 실력을 키울 수 있었습니다. 이런 경험들은 제가 다른 것들을 배울 때 학습 속도를 빠르게 해줬죠. 네 뭐 그런것입니다. :)</p>
+<p>이제 각 분야에 대해서 이야기를 해보도록 하겠습니다.</p>
+</div>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="../index.html">CS Univ Wiki</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2019, benjioh5.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.2.1</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      
+      |
+      <a href="../_sources/정보-보안/README.md.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

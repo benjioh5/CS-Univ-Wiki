@@ -1,0 +1,34 @@
+# 버전 관리 도구
+소스코드의 변경사항을 관리하기 위해 주로 쓰입니다. 등장한 배경과 버전관리를 이용해야 하는 까닭은 [버전 관리 - 위키디피아](https://ko.wikipedia.org/wiki/%EB%B2%84%EC%A0%84_%EA%B4%80%EB%A6%AC) 참고
+
+## [Git](https://git-scm.com/)
+가장 널리 쓰이는 버전 관리 도구입니다. 보통은 git 보다는 github를 통해 git을 처음 접할텐데, github의 자세한 이야기는 [이 블로그](https://allaboutetp.wordpress.com/2012/03/18/github/)에 잘 나와 있습니다. 
+
+터미널 명령어 익히기가 부담스럽다면 GUI 클라이언트를 사용해도 됩니다. source tree, github desktop, gitkraken 등이 있습니다. IDE에 내장된 도구를 사용하기도 합니다.
+
+## SVN
+Git보다 앞서 등장했지만 지금은 github에 비해 덜 쓰이는 추세입니다. 그래도 Mercurial이나 CVS보다는 많이 씁니다.
+보통 git보다는 SVN이 쓰기 쉽다고 하는데, 개인적인 생각은 이왕 공부할거면 많이 쓰는 git 공부하는것이 낫다고 생각합니다. 사람들이 많이 쓰는건 이유가 있거든요. SVN이 먼저 나왔음에도 git이 흥하고 있다는걸 감안하면 더더욱 그렇습니다.
+
+## Mercurial
+파이썬으로 개발된 버전 관리 도구입니다.
+
+# 호스팅 서비스
+어쨌든 코드를 공유하려면 서버가 필요한데, 프로젝트를 할때마다 매번 버전관리를 위한 서버를 구축 하려면 번거롭죠. 그런 수고를 덜어주기 위한 서비스 입니다.
+
+모두 공개 저장소는 무료입니다.
+
+## [github](github.com)
+- 학생인증 받으면 비공개 저장소 무료.
+- 공동 작업 인원 제한 없음
+- [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
+
+## [bitbucket](bitbucket.org)
+- 비공개 저장소 무료
+- 5인 이하 공동작업 가능, 그 이상 유료
+
+## [gitlab](gitlab.com)
+- 비공개 저장소 무료
+- 공동 작업 인원 제한 없음
+- 직접 서버에 설치해서 사용할 수도 있음
+- 조금 느림
